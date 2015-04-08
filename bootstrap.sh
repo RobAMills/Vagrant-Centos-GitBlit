@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 cd /vagrant
 # curl jre rpm here
 sudo yum install -y jre-8u40-linux-x64.rpm
